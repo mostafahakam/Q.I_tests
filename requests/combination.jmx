@@ -1653,8 +1653,8 @@
   &quot;interaction_time&quot;: ${__time(/1000,)},&#xd;
   &quot;interaction_type&quot;: &quot;like&quot;,&#xd;
   &quot;interaction_value&quot;: 1,&#xd;
-  &quot;item_id&quot;: &quot;${__RandomString(10000000,abcdefghijklmnopqrstuvwxyz1234567890)}&quot;,&#xd;
-  &quot;user_id&quot;: &quot;${__RandomString(10000000,abcdefghijklmnopqrstuvwxyz1234567890)}&quot;&#xd;
+  &quot;item_id&quot;: &quot;${__RandomString(1000000,abcdefghijklmnopqrstuvwxyz1234567890)}&quot;,&#xd;
+  &quot;user_id&quot;: &quot;${__RandomString(1000000,abcdefghijklmnopqrstuvwxyz1234567890)}&quot;&#xd;
  &#xd;
 }</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
